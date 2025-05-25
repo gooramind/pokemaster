@@ -62,7 +62,7 @@
 ### PokemonProject 폴더안에 dataset이라는 하위 폴더를 생성
 ### 다운로드한 데이터셋 파일들을 dataset 폴더안으로 옮김
 ### 현제 PokemonProject의 폴더 상태
-###C:\Users\shrry\PokemonProject\
+C:\Users\shrry\PokemonProject\
 └── dataset/
     ├── Abra/
     │   └── 00000000.png ...
